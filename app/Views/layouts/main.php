@@ -17,7 +17,7 @@ $user_logged = $is_authenticaded ? $_SESSION['user'] : null;
 
 <nav>
   <div class="nav-wrapper container">
-    <a href="#!" class="brand-logo">Proyects System</a>
+    <a href="#!" class="brand-logo">Clients System</a>
 
     <a href="#" data-target="slide-out" class="sidenav-trigger show-on-large right waves-effect">
       <i class="material-icons">
